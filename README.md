@@ -1,4 +1,4 @@
-Perfecto 👌 Aquí te lo dejo TODO dentro del bloque, con cada sección incluida (características, lógica, estado, contribuciones, etc.). Solo tienes que **copiar y pegar directamente en tu `README.md`**:
+
 
 ````md
 # 🎮 Example-Tetris
