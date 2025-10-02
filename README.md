@@ -127,7 +127,5 @@ Consulta el archivo `LICENSE` para más detalles.
 * Modo multijugador local o en línea
 * Fondos personalizados por nivel
 
----
 
-```
 
