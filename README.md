@@ -131,5 +131,3 @@ Consulta el archivo `LICENSE` para más detalles.
 
 ```
 
-¿Quieres que también te prepare un **banner con el nombre del proyecto** y una **imagen estilo retro de Tetris** listas para subir a `assets/` y enlazar en este README?
-```
