@@ -1,4 +1,4 @@
-
+![Example-Tetris Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-6.png)
 
 ````md
 # 🎮 Example-Tetris
@@ -6,7 +6,7 @@
 Juego clásico de **Tetris** desarrollado por **ZaBaDeVgit**.  
 Una versión de ejemplo para aprender la lógica de juego, la gestión de gráficos y la estructura básica de un Tetris.
 
-![Example-Tetris Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-6.png)
+
 ---
 
 ## 📸 Captura de pantalla
