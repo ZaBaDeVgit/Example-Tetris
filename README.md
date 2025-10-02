@@ -1,4 +1,4 @@
-![Example-Tetris Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-6.png)
+![Example-Tetris Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-7.png)
 
 ````md
 # 🎮 Example-Tetris
