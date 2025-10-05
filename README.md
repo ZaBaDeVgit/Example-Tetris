@@ -1,6 +1,6 @@
 ![Example-Tetris Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-7.png)
 
-````md
+
 # 🎮 Example-Tetris
 
 Juego clásico de **Tetris** desarrollado por **ZaBaDeVgit**.  
