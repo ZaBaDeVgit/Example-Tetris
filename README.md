@@ -41,9 +41,9 @@ Una versión de ejemplo para aprender la lógica de juego, la gestión de gráfi
 ## 🏃 Cómo ejecutar
 
 1. Clonar el repositorio:
-   ```bash
+
    git clone https://github.com/ZaBaDeVgit/Example-Tetris.git
-````
+
 
 2. Abrir el proyecto en tu IDE.
 3. Restaurar paquetes si es necesario.
@@ -51,12 +51,10 @@ Una versión de ejemplo para aprender la lógica de juego, la gestión de gráfi
 
 Con línea de comandos:
 
-```bash
+
 dotnet build
 dotnet run --project Tetris/Tetris.csproj
-```
 
----
 
 ## ⌨️ Controles
 
